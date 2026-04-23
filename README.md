@@ -1,10 +1,10 @@
-# Algorithm Visualizer
+# AlgoLens
 
 An interactive web application for learning algorithms through step-by-step visual explanations. This project helps make abstract computer science concepts concrete and intuitive.
 
 ## 🔍 Overview
 
-Algorithm Visualizer is designed to help users understand how various algorithms work through interactive visualizations. The platform covers:
+AlgoLens is designed to help users understand how various algorithms work through interactive visualizations. The platform covers:
 
 - **Sorting Algorithms**: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort
 - **Searching Algorithms**: Linear Search, Binary Search
@@ -37,8 +37,8 @@ Each algorithm includes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Scc33/algorithm-visualizer.git
-cd algorithm-visualizer
+git clone https://github.com/AkhilKumar1601/AlgoLens.git
+cd AlgoLens
 ```
 
 2. Install dependencies:
@@ -111,5 +111,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🙏 Acknowledgments
 
-- Built and maintained by [Sean Coughlin](https://seancoughlin.me)
+- Built and maintained by [AkhilKumar](https://akhilkumarportfolio.lovable.app/about)
 - Inspired by the need for better visual learning tools for computer science education
